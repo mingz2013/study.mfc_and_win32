@@ -1,0 +1,3 @@
+#include "Res/RadASMTestLng.rc"
+#include "Res/RadASMTestDlg.rc"
+#include "Res/RadASMTestRes.rc"

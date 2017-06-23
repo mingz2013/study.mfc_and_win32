@@ -1,0 +1,32 @@
+﻿生成启动时间为 2013/3/26 15:29:47。
+     1>项目“D:\studymyself\c++\vs2010\Excel\Excel\Excel.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Excel.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Excel.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ExcelDlg.cpp
+         ExcelDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\studymyself\c++\vs2010\Excel\Debug\Excel.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Excel.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\studymyself\c++\vs2010\Excel\Debug\Excel.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\studymyself\c++\vs2010\Excel\Debug\Excel.lib" /MACHINE:X86 Debug\Excel.res
+         Debug\Excel.exe.embed.manifest.res
+         Debug\Excel.obj
+         Debug\ExcelDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Excel.exe.embed.manifest" /manifest Debug\Excel.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Excel.vcxproj -> D:\studymyself\c++\vs2010\Excel\Debug\Excel.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Excel.unsuccessfulbuild”。
+         正在对“Debug\Excel.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\studymyself\c++\vs2010\Excel\Excel\Excel.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.02
